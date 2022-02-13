@@ -33,6 +33,5 @@
 ---
 
 ![Updates](https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white)
-![Blueve](https://badges.pufler.dev/visits/Blueve/Blueve?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
-![profile hits](https://img.shields.io/jsdelivr/gh/hw/Blueve/Blueve?label=hits&style=flat-square)
-![GitHub hits](https://img.shields.io/github/last-commit/Blueve/Blueve?label=profile%20updated&style=flat-square)
+![Visits](https://badges.pufler.dev/visits/Blueve/Blueve?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
+![Profile Update](https://img.shields.io/github/last-commit/Blueve/Blueve?label=profile%20updated&style=flat-square)
