@@ -33,5 +33,4 @@
 ---
 
 ![Updates](https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white)
-![Visits](https://badges.pufler.dev/visits/Blueve/Blueve?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square)
 ![Profile Update](https://img.shields.io/github/last-commit/Blueve/Blueve?label=profile%20updated&style=flat-square)
